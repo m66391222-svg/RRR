@@ -21,6 +21,4 @@ var youtube_channel_link = "https://www.youtube.com/@KRN-SILENT link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+var notification_text = `https://www.youtube.com/@KRN-SILENT
