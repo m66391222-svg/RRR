@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (RRR)
 // =======================================================
 var website_name = "RRR";
 
@@ -16,9 +16,10 @@ var telegram_group_link = "https://t.me/+UqSPUriXH4NhNGI1link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@KRN-SILENT link";
+var youtube_channel_link = https://youtu.be/4N11tUOjYYg?si=fDPGEBgAtE6ESRoP"t
+  T link";
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `https://www.youtube.com/@KRN-SILENT
+var notification_text 
